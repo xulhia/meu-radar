@@ -4,8 +4,8 @@ Gera data/congresso.json, data/termometro.json e data/economia.json a partir das
 APIs oficiais da Câmara dos Deputados e do Banco Central. Só biblioteca padrão.
 
 Uso:
-  python coletor/congresso.py              # coleta normal (a cada 3 horas)
-  python coletor/congresso.py --discursos  # inclui a busca nos discursos (1 vez por dia)
+  python congresso.py              # coleta normal (a cada 3 horas)
+  python congresso.py --discursos  # inclui a busca nos discursos (1 vez por dia)
 """
 import concurrent.futures as cf
 import datetime as dt
@@ -17,11 +17,11 @@ import unicodedata
 import urllib.parse
 import urllib.request
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent
 DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
-CFG = json.loads((ROOT / "config" / "fontes.json").read_text(encoding="utf-8"))
-SEGUIR = json.loads((ROOT / "config" / "seguir.json").read_text(encoding="utf-8"))
+CFG = json.loads((ROOT / "fontes.json").read_text(encoding="utf-8"))
+SEGUIR = json.loads((ROOT / "seguir.json").read_text(encoding="utf-8"))
 CAMARA = "https://dadosabertos.camara.leg.br/api/v2"
 HOJE = dt.date.today()
 STATUS = []

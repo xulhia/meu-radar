@@ -12,7 +12,7 @@ import pathlib
 import urllib.parse
 import urllib.request
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent
 DATA = ROOT / "data"
 AGORA = dt.datetime.now(dt.timezone.utc)
 HOJE = dt.date.today()

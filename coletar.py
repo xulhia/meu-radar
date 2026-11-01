@@ -16,8 +16,8 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-CFG = json.loads((ROOT / "config" / "fontes.json").read_text(encoding="utf-8"))
+ROOT = pathlib.Path(__file__).resolve().parent
+CFG = json.loads((ROOT / "fontes.json").read_text(encoding="utf-8"))
 DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
 AGORA = dt.datetime.now(dt.timezone.utc)

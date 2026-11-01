@@ -16,10 +16,10 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent
 DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
-CFG = json.loads((ROOT / "config" / "agencias.json").read_text(encoding="utf-8"))
+CFG = json.loads((ROOT / "agencias.json").read_text(encoding="utf-8"))
 AGORA = dt.datetime.now(dt.timezone.utc)
 UA = {"User-Agent": "Mozilla/5.0 (meu-radar; leitura pessoal com crédito à fonte)"}
 

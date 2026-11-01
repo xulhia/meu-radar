@@ -6,7 +6,7 @@ Painel pessoal de política com seis partes:
 - **Congresso:** medidas provisórias com prazo, pauta do plenário, projetos novos nos seus temas, votações com a bancada do Ceará, discursos com suas palavras e projetos que você segue.
 - **Termômetro:** governismo semana a semana e por partido, com série que cresce a cada dia.
 - **Leitura:** modo leitura acessível. Tira menus, anúncios, cookies e pop-ups, mantém o texto íntegro em Markdown, com fonte ajustável, alto contraste e leitura em voz alta. Abre o texto completo da Agência Brasil, da Agência Câmara e da Agência Senado, e qualquer endereço quando você configura o seu leitor (abaixo). Não remove bloqueios de assinatura.
-- **Agências públicas na Leitura:** texto integral das matérias da Agência Brasil, da Agência Câmara e da Agência Senado, coletado a cada 3 horas, sempre com crédito e link do original. Os endereços de RSS ficam em `config/agencias.json`. Confira os termos de uso de cada agência no site dela.
+- **Agências públicas na Leitura:** texto integral das matérias da Agência Brasil, da Agência Câmara e da Agência Senado, coletado a cada 3 horas, sempre com crédito e link do original. Os endereços de RSS ficam em `agencias.json`. Confira os termos de uso de cada agência no site dela.
 - **Salvas** e **Fontes**.
 
 Tem também o **modo calmo**, que mostra só o resumo, os alertas e a leitura.
@@ -35,7 +35,7 @@ Quase todo site bloqueia a leitura feita direto de outro site. O seu leitor é u
 
 1. Crie uma conta gratuita em dash.cloudflare.com.
 2. Vá em **Workers & Pages > Create > Create Worker**, dê o nome `meu-leitor` e clique em **Deploy**.
-3. Clique em **Edit code**, apague o que estiver lá, cole o conteúdo de `leitor/worker.js` e clique em **Deploy**.
+3. Clique em **Edit code**, apague o que estiver lá, cole o conteúdo de `worker.js` e clique em **Deploy**.
 4. Em **Settings > Variables and Secrets**, adicione:
    - um segredo `CHAVE` com uma senha que você inventar;
    - opcionalmente, `ORIGEM` = `https://SEU-USUARIO.github.io`, para só o seu painel usar o leitor.
@@ -45,10 +45,10 @@ O plano gratuito da Cloudflare permite 100 mil leituras por dia.
 
 ## Ajustar
 
-Os ajustes ficam em `config/`, editados direto no GitHub:
-- `config/fontes.json` define buscas, veículos e grupos, temas, palavras vigiadas (`vigiar`) e palavras procuradas em projetos novos (`temas_projetos`).
-- `config/agencias.json` lista os RSS da Agência Brasil, da Agência Câmara e da Agência Senado, de onde vem o texto integral da aba Leitura. Se um parar de funcionar (veja a aba Fontes), troque o endereço.
-- `config/seguir.json` lista os projetos que você quer acompanhar passo a passo, por sigla, número e ano.
+Os ajustes ficam nos arquivos .json, editados direto no GitHub:
+- `fontes.json` define buscas, veículos e grupos, temas, palavras vigiadas (`vigiar`) e palavras procuradas em projetos novos (`temas_projetos`).
+- `agencias.json` lista os RSS da Agência Brasil, da Agência Câmara e da Agência Senado, de onde vem o texto integral da aba Leitura. Se um parar de funcionar (veja a aba Fontes), troque o endereço.
+- `seguir.json` lista os projetos que você quer acompanhar passo a passo, por sigla, número e ano.
 
 ## Frequência
 

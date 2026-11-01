@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
 
       - name: Notícias
-        run: python coletor/coletar.py
+        run: python coletar.py
         continue-on-error: true
 
       - name: Ver se é hora do Congresso
@@ -33,17 +33,17 @@ jobs:
 
       - name: Congresso e economia (a cada 3 horas)
         if: github.event.schedule == '23 * * * *' && steps.hora.outputs.tres == '1'
-        run: python coletor/congresso.py
+        run: python congresso.py
         continue-on-error: true
 
       - name: Congresso com discursos (1 vez por dia)
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '5 9 * * *'
-        run: python coletor/congresso.py --discursos
+        run: python congresso.py --discursos
         continue-on-error: true
 
       - name: Agências públicas (texto integral)
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '5 9 * * *' || steps.hora.outputs.tres == '1'
-        run: python coletor/agencias.py
+        run: python agencias.py
         continue-on-error: true
 
       - name: Resumo do dia
@@ -52,7 +52,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           RADAR_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-        run: python coletor/resumo.py
+        run: python resumo.py
         continue-on-error: true
 
       - name: Salvar dados
