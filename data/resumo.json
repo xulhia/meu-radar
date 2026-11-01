@@ -1,0 +1,76 @@
+{
+ "gerado": "2026-11-01T02:36:09.650035+00:00",
+ "temas_em_alta": [
+  [
+   "Governo federal",
+   209
+  ],
+  [
+   "Democracia",
+   135
+  ],
+  [
+   "STF e Justiça",
+   109
+  ],
+  [
+   "Congresso",
+   107
+  ],
+  [
+   "Eleições",
+   85
+  ]
+ ],
+ "alertas_noticias": [
+  {
+   "palavra": "8 de janeiro",
+   "titulo": "Eleitor que faltou ao 2º turno tem até 8 de janeiro para justificar ausência"
+  },
+  {
+   "palavra": "8 de janeiro",
+   "titulo": "Moraes manda Polícia Federal prender eletricista condenado pelos atos de 8 de Janeiro"
+  },
+  {
+   "palavra": "8 de janeiro",
+   "titulo": "Samantha questiona “caça” a Flávio Bolsonaro e compara situação com presos do 8 de janeiro"
+  },
+  {
+   "palavra": "anistia",
+   "titulo": "Abilio prevê Lula isolado, aproximação de Moraes com a direita e anistia a Bolsonaro"
+  },
+  {
+   "palavra": "anistia",
+   "titulo": "Anistia Internacional denuncia Milei à ONU por ameaça de “queimar jornalistas na fogueira”"
+  },
+  {
+   "palavra": "anistia",
+   "titulo": "Senadores condicionam anistia a Bolsonaro à decisão do STF"
+  }
+ ],
+ "prazos_7_dias": [],
+ "votacoes_recentes": [],
+ "projetos_novos": [
+  {
+   "titulo": "PL 5699/2026",
+   "termos": [
+    "discriminacao"
+   ]
+  },
+  {
+   "titulo": "PL 5689/2026",
+   "termos": [
+    "discriminacao"
+   ]
+  },
+  {
+   "titulo": "PL 5687/2026",
+   "termos": [
+    "discriminacao"
+   ]
+  }
+ ],
+ "discursos": 0,
+ "dolar": 5.4212,
+ "selic": 13.75
+}
