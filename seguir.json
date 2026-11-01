@@ -1,0 +1,6 @@
+{
+  "_como_usar": "Liste aqui os projetos que você quer acompanhar passo a passo. Ex.: {\"sigla\": \"PL\", \"numero\": 1234, \"ano\": 2025, \"apelido\": \"como você chama esse projeto\"}. Apague o exemplo.",
+  "projetos": [
+    {"sigla": "PL", "numero": 0, "ano": 2026, "apelido": "EXEMPLO - troque pelo número de um projeto real"}
+  ]
+}

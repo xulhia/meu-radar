@@ -1,0 +1,13 @@
+{
+  "_como_usar": "Agências públicas cujo texto pode ser reproduzido com crédito. 'feeds' lista endereços de RSS em ordem de preferência: se um falhar, o próximo é tentado. Se todos falharem (veja a aba Fontes), procure o link RSS no site da agência e troque aqui.",
+  "por_agencia": 20,
+  "dias_guardados": 7,
+  "agencias": [
+    {"nome": "Agência Brasil", "credito": "Agência Brasil (EBC), licença Creative Commons CC BY.",
+     "feeds": ["https://agenciabrasil.ebc.com.br/rss/politica/feed.xml", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"]},
+    {"nome": "Agência Câmara", "credito": "Agência Câmara de Notícias, Câmara dos Deputados.",
+     "feeds": ["https://www.camara.leg.br/noticias/rss/ultimas-noticias", "https://www.camara.leg.br/noticias/rss/dinamico/POLITICA"]},
+    {"nome": "Agência Senado", "credito": "Agência Senado, Senado Federal.",
+     "feeds": ["https://www12.senado.leg.br/noticias/feed/todasnoticias/RSS", "https://www12.senado.leg.br/noticias/feed/RSS"]}
+  ]
+}

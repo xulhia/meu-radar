@@ -1,0 +1,277 @@
+{
+  "_como_editar": "Edite este arquivo direto no GitHub. 'consultas': buscas por assunto. 'fontes': veículos e o grupo de cada um (os grupos são uma sugestão; mude como achar melhor). 'temas': classificam as notícias. 'vigiar': destacam notícias e discursos. 'temas_projetos': palavras procuradas nas ementas dos projetos novos.",
+  "dias_guardados": 14,
+  "consultas": [
+    {
+      "nome": "Política nacional",
+      "q": "política Brasil Congresso governo"
+    },
+    {
+      "nome": "Câmara dos Deputados",
+      "q": "\"Câmara dos Deputados\""
+    },
+    {
+      "nome": "Senado",
+      "q": "\"Senado Federal\" OR senadores"
+    },
+    {
+      "nome": "STF",
+      "q": "STF OR \"Supremo Tribunal Federal\""
+    },
+    {
+      "nome": "Governo federal",
+      "q": "Planalto OR \"governo federal\" OR ministério"
+    },
+    {
+      "nome": "Ceará",
+      "q": "Ceará política OR \"Assembleia Legislativa do Ceará\" OR \"governo do Ceará\""
+    },
+    {
+      "nome": "Fortaleza",
+      "q": "Fortaleza prefeitura OR \"Câmara Municipal de Fortaleza\""
+    },
+    {
+      "nome": "Povos indígenas",
+      "q": "indígenas OR \"marco temporal\" OR Funai"
+    },
+    {
+      "nome": "Democracia",
+      "q": "\"8 de janeiro\" OR anistia OR golpe OR inelegível"
+    },
+    {
+      "nome": "Trabalho",
+      "q": "trabalhadores OR CLT OR demissões OR \"salário mínimo\""
+    }
+  ],
+  "filtro_fontes": "(Congresso OR STF OR governo OR deputado OR senador OR ministro OR Lula OR Bolsonaro OR eleição OR Ceará)",
+  "fontes": [
+    {
+      "nome": "g1",
+      "dominio": "g1.globo.com",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "Folha de S.Paulo",
+      "dominio": "folha.uol.com.br",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "Estadão",
+      "dominio": "estadao.com.br",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "O Globo",
+      "dominio": "oglobo.globo.com",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "CNN Brasil",
+      "dominio": "cnnbrasil.com.br",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "dominio": "poder360.com.br",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "Metrópoles",
+      "dominio": "metropoles.com",
+      "grupo": "Grande imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "dominio": "agenciabrasil.ebc.com.br",
+      "grupo": "Pública"
+    },
+    {
+      "nome": "Agência Câmara",
+      "dominio": "camara.leg.br",
+      "grupo": "Pública"
+    },
+    {
+      "nome": "Agência Senado",
+      "dominio": "senado.leg.br",
+      "grupo": "Pública"
+    },
+    {
+      "nome": "O Povo",
+      "dominio": "opovo.com.br",
+      "grupo": "Ceará"
+    },
+    {
+      "nome": "Diário do Nordeste",
+      "dominio": "diariodonordeste.verdesmares.com.br",
+      "grupo": "Ceará"
+    },
+    {
+      "nome": "CartaCapital",
+      "dominio": "cartacapital.com.br",
+      "grupo": "Esquerda declarada"
+    },
+    {
+      "nome": "Brasil de Fato",
+      "dominio": "brasildefato.com.br",
+      "grupo": "Esquerda declarada"
+    },
+    {
+      "nome": "Revista Fórum",
+      "dominio": "revistaforum.com.br",
+      "grupo": "Esquerda declarada"
+    },
+    {
+      "nome": "Revista Oeste",
+      "dominio": "revistaoeste.com",
+      "grupo": "Direita declarada"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "dominio": "gazetadopovo.com.br",
+      "grupo": "Direita declarada"
+    },
+    {
+      "nome": "Jovem Pan",
+      "dominio": "jovempan.com.br",
+      "grupo": "Comentário político"
+    },
+    {
+      "nome": "Aos Fatos",
+      "dominio": "aosfatos.org",
+      "grupo": "Checagem"
+    },
+    {
+      "nome": "Projeto Comprova",
+      "dominio": "projetocomprova.com.br",
+      "grupo": "Checagem"
+    }
+  ],
+  "temas": {
+    "Congresso": [
+      "câmara",
+      "senado",
+      "congresso",
+      "deputad",
+      "senador",
+      "plenário",
+      "pec ",
+      "projeto de lei",
+      "medida provisória"
+    ],
+    "STF e Justiça": [
+      "stf",
+      "supremo",
+      "ministro do",
+      "tse",
+      "justiça",
+      "julgamento",
+      "pgr",
+      "polícia federal"
+    ],
+    "Governo federal": [
+      "lula",
+      "planalto",
+      "ministro",
+      "ministério",
+      "governo federal"
+    ],
+    "Economia": [
+      "juros",
+      "selic",
+      "inflação",
+      "dólar",
+      "pib",
+      "orçamento",
+      "imposto",
+      "arcabouço"
+    ],
+    "Ceará": [
+      "ceará",
+      "fortaleza",
+      "cearense",
+      "elmano",
+      "alece",
+      "caucaia",
+      "sobral",
+      "juazeiro"
+    ],
+    "Povos indígenas": [
+      "indígena",
+      "marco temporal",
+      "funai",
+      "yanomami",
+      "terra indígena",
+      "quilombol"
+    ],
+    "Democracia": [
+      "golpe",
+      "8 de janeiro",
+      "anistia",
+      "inelegív",
+      "bolsonaro",
+      "democracia",
+      "atos antidemocráticos"
+    ],
+    "Trabalho": [
+      "trabalhador",
+      "clt",
+      "demiss",
+      "salário mínimo",
+      "sindicato",
+      "greve",
+      "emprego"
+    ],
+    "Eleições": [
+      "eleição",
+      "eleições",
+      "candidat",
+      "pesquisa eleitoral",
+      "2028",
+      "turno"
+    ]
+  },
+  "vigiar": [
+    "impeachment",
+    "golpe",
+    "anistia",
+    "marco temporal",
+    "estado de sítio",
+    "8 de janeiro",
+    "Assembleia Legislativa do Ceará",
+    "violência contra indígenas"
+  ],
+  "temas_projetos": [
+    "indígena",
+    "terra indígena",
+    "marco temporal",
+    "quilombol",
+    "trabalhador",
+    "demissão",
+    "CLT",
+    "salário mínimo",
+    "anistia",
+    "8 de janeiro",
+    "discriminação",
+    "racismo",
+    "violência contra a mulher",
+    "Ceará"
+  ],
+  "feeds_diretos": [
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
+      "texto_livre": true
+    },
+    {
+      "nome": "Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias",
+      "texto_livre": true
+    },
+    {
+      "nome": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/feed/todasnoticias/RSS",
+      "texto_livre": true
+    }
+  ],
+  "_feeds_diretos": "Feeds RSS próprios de agências públicas, com link direto para a notícia, que dá para abrir no modo leitura. Se um endereço parar de funcionar (veja a aba Fontes), procure o link 'RSS' no site da agência e troque aqui."
+}
