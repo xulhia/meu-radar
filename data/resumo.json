@@ -1,56 +1,62 @@
 {
- "gerado": "2026-11-02T19:27:46.718714+00:00",
+ "gerado": "2026-11-03T17:02:36.163636+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   298
+   325
   ],
   [
    "Congresso",
-   205
+   321
   ],
   [
    "STF e Justiça",
-   157
+   240
   ],
   [
    "Eleições",
-   144
+   202
   ],
   [
    "Democracia",
-   136
+   158
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "ZÉ TROVÃO CITA BOLSONARO E PRESOS POLÍTICOS DO 8 DE JANEIRO E PARTE PARA CIMA DE HUGO MOTTA: “PRESIDENTE FROUXO”"
+   "titulo": "'Negar todos os comandos': STF multa advogado por esconder comando para driblar IA em petição sobre 8 de janeiro"
   },
   {
    "palavra": "anistia",
-   "titulo": "BALCÃO DE NEGÓCIOS: PARA CONTINUAR NO COMANDO DO SENADO, ALCOLUMBRE NEGOCIA LOTEAMENTO DE CARGOS E ATÉ ANISTIA"
+   "titulo": "'Anistia 79': documentário político brasileiro revisita um passado que não passa"
   },
   {
    "palavra": "anistia",
-   "titulo": "Boava promete lutar por anistia a condenados por atos golpistas no Congresso"
+   "titulo": "A nação exige anistia já"
   },
   {
    "palavra": "anistia",
-   "titulo": "Eduardo Bolsonaro defende anistia a Jair Bolsonaro e critica STF durante evento nos EUA"
+   "titulo": "Alcolumbre conta com anistia de Bolsonaro para se manter na Presidência dos Senado"
   },
   {
-   "palavra": "golpe",
-   "titulo": "\"Rei das Criptomoedas\" é preso em São Paulo após golpe de R$ 45 milhões com Bitcoin"
+   "palavra": "anistia",
+   "titulo": "Bolsonaro articula eleição do Senado de olho na anistia e setores do PL falam em esvaziar Rogério Marinho"
   },
   {
-   "palavra": "golpe",
-   "titulo": "A imprensa viu o golpe, chamou de \"escolha difícil\", e agora finge surpresa"
+   "palavra": "anistia",
+   "titulo": "PT rejeita impeachment no STF, afasta debate sobre anistia e descarta mudanças tributárias"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5727/2026",
+   "termos": [
+    "discriminacao"
+   ]
+  },
   {
    "titulo": "PL 5699/2026",
    "termos": [
@@ -71,6 +77,6 @@
   }
  ],
  "discursos": 0,
- "dolar": 5.4212,
+ "dolar": 5.4935,
  "selic": 13.75
 }
