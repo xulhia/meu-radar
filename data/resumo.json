@@ -1,82 +1,94 @@
 {
- "gerado": "2026-11-03T17:02:36.163636+00:00",
+ "gerado": "2026-11-05T17:22:30.598324+00:00",
  "temas_em_alta": [
   [
-   "Governo federal",
-   325
-  ],
-  [
    "Congresso",
-   321
+   342
   ],
   [
-   "STF e Justiça",
-   240
-  ],
-  [
-   "Eleições",
-   202
+   "Governo federal",
+   316
   ],
   [
    "Democracia",
-   158
+   169
+  ],
+  [
+   "STF e Justiça",
+   163
+  ],
+  [
+   "Trabalho",
+   142
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "'Negar todos os comandos': STF multa advogado por esconder comando para driblar IA em petição sobre 8 de janeiro"
+   "titulo": "Rogério Marinho disputa Presidência do Senado com promessa de avançar anistia aos condenados pelo 8 de janeiro"
+  },
+  {
+   "palavra": "8 de janeiro",
+   "titulo": "STF concede prisão domiciliar a condenado pelo 8 de Janeiro por falta de vaga no regime semiaberto em Mato Grosso"
+  },
+  {
+   "palavra": "Assembleia Legislativa do Ceará",
+   "titulo": "70 anos da Expoece serão celebrados em sessão solene na Assembleia Legislativa do Ceará"
   },
   {
    "palavra": "anistia",
-   "titulo": "'Anistia 79': documentário político brasileiro revisita um passado que não passa"
+   "titulo": "Anistia e impeachment de ministros do STF: planos de Marinho para o Senado"
   },
   {
    "palavra": "anistia",
-   "titulo": "A nação exige anistia já"
+   "titulo": "Anistia fiscal de até 95% em juros e multas de impostos estaduais chega à Alepi até quinta (05)"
   },
   {
    "palavra": "anistia",
-   "titulo": "Alcolumbre conta com anistia de Bolsonaro para se manter na Presidência dos Senado"
-  },
-  {
-   "palavra": "anistia",
-   "titulo": "Bolsonaro articula eleição do Senado de olho na anistia e setores do PL falam em esvaziar Rogério Marinho"
-  },
-  {
-   "palavra": "anistia",
-   "titulo": "PT rejeita impeachment no STF, afasta debate sobre anistia e descarta mudanças tributárias"
+   "titulo": "Anistia, STF e acordos do Congresso: o futuro da presidência do Senado"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
   {
-   "titulo": "PL 5727/2026",
+   "titulo": "PL 5774/2026",
+   "termos": [
+    "violencia contra a mulher"
+   ]
+  },
+  {
+   "titulo": "PL 5767/2026",
    "termos": [
     "discriminacao"
    ]
   },
   {
-   "titulo": "PL 5699/2026",
+   "titulo": "PL 5762/2026",
    "termos": [
-    "discriminacao"
+    "trabalhador"
    ]
   },
   {
-   "titulo": "PL 5689/2026",
+   "titulo": "PLP 283/2026",
    "termos": [
-    "discriminacao"
+    "violencia contra a mulher"
    ]
   },
   {
-   "titulo": "PL 5687/2026",
+   "titulo": "PL 5748/2026",
+   "termos": [
+    "trabalhador"
+   ]
+  },
+  {
+   "titulo": "PL 5744/2026",
    "termos": [
     "discriminacao"
    ]
   }
  ],
- "discursos": 0,
- "dolar": 5.4935,
+ "discursos": 3,
+ "dolar": 5.4621,
  "selic": 13.75
 }
