@@ -1,56 +1,62 @@
 {
- "gerado": "2026-11-05T17:22:30.598324+00:00",
+ "gerado": "2026-11-06T16:45:41.011888+00:00",
  "temas_em_alta": [
   [
-   "Congresso",
-   342
-  ],
-  [
    "Governo federal",
-   316
-  ],
-  [
-   "Democracia",
-   169
+   400
   ],
   [
    "STF e Justiça",
-   163
+   248
+  ],
+  [
+   "Congresso",
+   233
+  ],
+  [
+   "Democracia",
+   194
   ],
   [
    "Trabalho",
-   142
+   113
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Rogério Marinho disputa Presidência do Senado com promessa de avançar anistia aos condenados pelo 8 de janeiro"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "STF concede prisão domiciliar a condenado pelo 8 de Janeiro por falta de vaga no regime semiaberto em Mato Grosso"
+   "titulo": "Moraes arquiva investigação contra juiz de Uberlândia que autorizou progressão de regime de condenado pelo 8 de janeiro"
   },
   {
    "palavra": "Assembleia Legislativa do Ceará",
-   "titulo": "70 anos da Expoece serão celebrados em sessão solene na Assembleia Legislativa do Ceará"
+   "titulo": "JUCEC celebra 150 anos com sessão solene na Assembleia Legislativa do Ceará"
+  },
+  {
+   "palavra": "Assembleia Legislativa do Ceará",
+   "titulo": "Jucec celebra 150 anos de história com homenagem solene na Assembleia Legislativa do Ceará"
+  },
+  {
+   "palavra": "Assembleia Legislativa do Ceará",
+   "titulo": "Professores do Curso de Design da Unifor são homenageados pela Assembleia Legislativa do Ceará"
   },
   {
    "palavra": "anistia",
-   "titulo": "Anistia e impeachment de ministros do STF: planos de Marinho para o Senado"
+   "titulo": "ANISTIA: Empresas de Cotia podem renegociar dívidas com descontos de até 100% em juros e multas"
   },
   {
    "palavra": "anistia",
-   "titulo": "Anistia fiscal de até 95% em juros e multas de impostos estaduais chega à Alepi até quinta (05)"
-  },
-  {
-   "palavra": "anistia",
-   "titulo": "Anistia, STF e acordos do Congresso: o futuro da presidência do Senado"
+   "titulo": "Aliados de Lula discutem conceder graça a Jair Bolsonaro para barrar anistia e evitar crise entre STF e Congresso"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5786/2026",
+   "termos": [
+    "8 de janeiro"
+   ]
+  },
   {
    "titulo": "PL 5774/2026",
    "termos": [
@@ -80,15 +86,9 @@
    "termos": [
     "trabalhador"
    ]
-  },
-  {
-   "titulo": "PL 5744/2026",
-   "termos": [
-    "discriminacao"
-   ]
   }
  ],
- "discursos": 3,
- "dolar": 5.4621,
+ "discursos": 11,
+ "dolar": 5.5013,
  "selic": 13.75
 }
