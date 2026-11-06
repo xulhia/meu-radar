@@ -1,24 +1,24 @@
 {
- "atualizado": "2026-11-06T16:40:56.428024+00:00",
- "novas": 111,
+ "atualizado": "2026-11-06T21:36:08.684121+00:00",
+ "novas": 606,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 30,
+   "itens": 26,
    "segundos": 0.3
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "STF",
@@ -30,25 +30,25 @@
    "busca": "Governo federal",
    "ok": true,
    "itens": 100,
-   "segundos": 0.9
+   "segundos": 0.5
   },
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 24,
+   "itens": 22,
    "segundos": 0.3
   },
   {
    "busca": "Fortaleza",
    "ok": true,
-   "itens": 29,
+   "itens": 28,
    "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Democracia",
@@ -60,7 +60,7 @@
    "busca": "Trabalho",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: g1",
@@ -83,8 +83,8 @@
   {
    "busca": "Fonte: O Globo",
    "ok": true,
-   "itens": 0,
-   "segundos": 1.1
+   "itens": 100,
+   "segundos": 0.6
   },
   {
    "busca": "Fonte: CNN Brasil",
@@ -102,7 +102,7 @@
    "busca": "Fonte: Metrópoles",
    "ok": true,
    "itens": 99,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Agência Brasil",
@@ -113,7 +113,7 @@
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 69,
+   "itens": 61,
    "segundos": 0.3
   },
   {
@@ -126,7 +126,7 @@
    "busca": "Fonte: O Povo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Diário do Nordeste",
@@ -144,7 +144,7 @@
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Revista Fórum",
@@ -173,7 +173,7 @@
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 46,
+   "itens": 48,
    "segundos": 0.3
   },
   {
@@ -186,7 +186,7 @@
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 1.3
+   "segundos": 1.2
   },
   {
    "busca": "Feed: Agência Câmara",
