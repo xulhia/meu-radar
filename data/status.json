@@ -1,48 +1,48 @@
 {
- "atualizado": "2026-11-07T01:59:54.811938+00:00",
- "novas": 396,
+ "atualizado": "2026-11-07T08:54:36.773879+00:00",
+ "novas": 225,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 23,
-   "segundos": 0.3
+   "itens": 25,
+   "segundos": 0.4
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "STF",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Governo federal",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 22,
-   "segundos": 0.4
+   "itens": 23,
+   "segundos": 0.3
   },
   {
    "busca": "Fortaleza",
    "ok": true,
    "itens": 28,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
@@ -54,7 +54,7 @@
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.9
+   "segundos": 0.6
   },
   {
    "busca": "Trabalho",
@@ -72,19 +72,19 @@
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Estadão",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.6
   },
   {
    "busca": "Fonte: O Globo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: CNN Brasil",
@@ -101,7 +101,7 @@
   {
    "busca": "Fonte: Metrópoles",
    "ok": true,
-   "itens": 97,
+   "itens": 99,
    "segundos": 0.5
   },
   {
@@ -113,20 +113,20 @@
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 63,
+   "itens": 65,
    "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: O Povo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Diário do Nordeste",
@@ -138,25 +138,25 @@
    "busca": "Fonte: CartaCapital",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Revista Fórum",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Gazeta do Povo",
@@ -173,32 +173,32 @@
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 49,
-   "segundos": 0.3
+   "itens": 43,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Projeto Comprova",
    "ok": true,
    "itens": 1,
-   "segundos": 0.2
+   "segundos": 0.3
   },
   {
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.4
+   "segundos": 0.8
   },
   {
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 0.8
+   "segundos": 1.2
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 0.9
+   "segundos": 1.1
   }
  ]
 }
