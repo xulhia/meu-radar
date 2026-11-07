@@ -1,47 +1,47 @@
 {
- "gerado": "2026-11-06T16:45:41.011888+00:00",
+ "gerado": "2026-11-07T15:40:42.300544+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   400
-  ],
-  [
-   "STF e Justiça",
-   248
+   301
   ],
   [
    "Congresso",
-   233
+   182
+  ],
+  [
+   "STF e Justiça",
+   167
   ],
   [
    "Democracia",
-   194
+   148
   ],
   [
    "Trabalho",
-   113
+   93
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes arquiva investigação contra juiz de Uberlândia que autorizou progressão de regime de condenado pelo 8 de janeiro"
+   "titulo": "8 DE JANEIRO: MULHERES SÃO NOTIFICADAS POR MORAES POR FRETAR ÔNIBUS NA BAHIA"
   },
   {
-   "palavra": "Assembleia Legislativa do Ceará",
-   "titulo": "JUCEC celebra 150 anos com sessão solene na Assembleia Legislativa do Ceará"
+   "palavra": "8 de janeiro",
+   "titulo": "Ministro do GSI esteve no Planalto durante ataques de 8 de janeiro, diz TV"
   },
   {
-   "palavra": "Assembleia Legislativa do Ceará",
-   "titulo": "Jucec celebra 150 anos de história com homenagem solene na Assembleia Legislativa do Ceará"
+   "palavra": "8 de janeiro",
+   "titulo": "Moraes notifica denunciados por fretar ônibus da Bahia no 8 de Janeiro"
   },
   {
-   "palavra": "Assembleia Legislativa do Ceará",
-   "titulo": "Professores do Curso de Design da Unifor são homenageados pela Assembleia Legislativa do Ceará"
+   "palavra": "8 de janeiro",
+   "titulo": "Moraes notifica investigados por levar manifestantes da Bahia ao 8 de janeiro"
   },
   {
-   "palavra": "anistia",
-   "titulo": "ANISTIA: Empresas de Cotia podem renegociar dívidas com descontos de até 100% em juros e multas"
+   "palavra": "8 de janeiro",
+   "titulo": "Moraes notifica mulheres acusadas de financiar ônibus para atos de 8 de janeiro"
   },
   {
    "palavra": "anistia",
@@ -88,7 +88,7 @@
    ]
   }
  ],
- "discursos": 11,
+ "discursos": 8,
  "dolar": 5.5013,
  "selic": 13.75
 }
