@@ -1,51 +1,51 @@
 {
- "gerado": "2026-11-07T15:40:42.300544+00:00",
+ "gerado": "2026-11-08T15:57:41.244558+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   301
-  ],
-  [
-   "Congresso",
    182
   ],
   [
    "STF e Justiça",
-   167
+   120
+  ],
+  [
+   "Congresso",
+   105
   ],
   [
    "Democracia",
-   148
+   84
   ],
   [
-   "Trabalho",
-   93
+   "Eleições",
+   70
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "8 DE JANEIRO: MULHERES SÃO NOTIFICADAS POR MORAES POR FRETAR ÔNIBUS NA BAHIA"
+   "titulo": "Derrota de Flávio leva condenados pelo 8 de Janeiro a pressionar Milei por refúgio"
   },
   {
-   "palavra": "8 de janeiro",
-   "titulo": "Ministro do GSI esteve no Planalto durante ataques de 8 de janeiro, diz TV"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "Moraes notifica denunciados por fretar ônibus da Bahia no 8 de Janeiro"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "Moraes notifica investigados por levar manifestantes da Bahia ao 8 de janeiro"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "Moraes notifica mulheres acusadas de financiar ônibus para atos de 8 de janeiro"
+   "palavra": "Assembleia Legislativa do Ceará",
+   "titulo": "Assembleia Legislativa do Ceará aprova projeto de repasse para escola de samba do Rio de Janeiro"
   },
   {
    "palavra": "anistia",
-   "titulo": "Aliados de Lula discutem conceder graça a Jair Bolsonaro para barrar anistia e evitar crise entre STF e Congresso"
+   "titulo": "Anistia: o caminho da pacificação"
+  },
+  {
+   "palavra": "anistia",
+   "titulo": "Lideranças do PT defendem indulto a Bolsonaro para esvaziar anistia"
+  },
+  {
+   "palavra": "anistia",
+   "titulo": "Na véspera da COP31, Anistia cobra liberdade para protestos na Turquia e reação à indústria de combustíveis fósseis"
+  },
+  {
+   "palavra": "golpe",
+   "titulo": "'Esse vídeo é falso': Roberto Justus denuncia golpe com uso de inteligência artificial"
   }
  ],
  "prazos_7_dias": [],
@@ -88,7 +88,7 @@
    ]
   }
  ],
- "discursos": 8,
+ "discursos": 3,
  "dolar": 5.5013,
  "selic": 13.75
 }
