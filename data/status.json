@@ -1,24 +1,24 @@
 {
- "atualizado": "2026-11-08T15:54:00.263675+00:00",
- "novas": 278,
+ "atualizado": "2026-11-08T18:52:30.861514+00:00",
+ "novas": 362,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 24,
-   "segundos": 0.3
+   "itens": 25,
+   "segundos": 0.4
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
-   "itens": 82,
-   "segundos": 0.3
+   "itens": 70,
+   "segundos": 0.4
   },
   {
    "busca": "Senado",
    "ok": true,
-   "itens": 84,
-   "segundos": 0.3
+   "itens": 73,
+   "segundos": 0.4
   },
   {
    "busca": "STF",
@@ -35,26 +35,26 @@
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 22,
+   "itens": 25,
    "segundos": 0.3
   },
   {
    "busca": "Fortaleza",
    "ok": true,
    "itens": 25,
-   "segundos": 0.3
+   "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
    "ok": true,
-   "itens": 92,
+   "itens": 78,
    "segundos": 0.4
   },
   {
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Trabalho",
@@ -72,7 +72,7 @@
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Estadão",
@@ -84,13 +84,13 @@
    "busca": "Fonte: O Globo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.6
   },
   {
    "busca": "Fonte: CNN Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Poder360",
@@ -102,24 +102,24 @@
    "busca": "Fonte: Metrópoles",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Agência Brasil",
    "ok": true,
-   "itens": 69,
-   "segundos": 0.3
+   "itens": 88,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 36,
+   "itens": 32,
    "segundos": 0.3
   },
   {
    "busca": "Fonte: Agência Senado",
    "ok": true,
-   "itens": 63,
+   "itens": 56,
    "segundos": 0.3
   },
   {
@@ -143,8 +143,8 @@
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
-   "itens": 68,
-   "segundos": 0.3
+   "itens": 62,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Revista Fórum",
@@ -162,18 +162,18 @@
    "busca": "Fonte: Gazeta do Povo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 70,
+   "itens": 71,
    "segundos": 0.3
   },
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 28,
+   "itens": 26,
    "segundos": 0.3
   },
   {
@@ -186,19 +186,19 @@
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.8
+   "segundos": 0.7
   },
   {
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 1.8
+   "segundos": 0.9
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.8
+   "segundos": 0.9
   }
  ]
 }
