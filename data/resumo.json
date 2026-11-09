@@ -1,56 +1,62 @@
 {
- "gerado": "2026-11-08T15:57:41.244558+00:00",
+ "gerado": "2026-11-09T19:52:07.407447+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   182
-  ],
-  [
-   "STF e Justiça",
-   120
+   421
   ],
   [
    "Congresso",
-   105
+   206
+  ],
+  [
+   "STF e Justiça",
+   202
   ],
   [
    "Democracia",
-   84
+   120
   ],
   [
-   "Eleições",
-   70
+   "Trabalho",
+   116
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Derrota de Flávio leva condenados pelo 8 de Janeiro a pressionar Milei por refúgio"
+   "titulo": "Carlos Bolsonaro questiona condenação do pai e diz que Jair estava nos EUA durante o 8 de Janeiro"
   },
   {
-   "palavra": "Assembleia Legislativa do Ceará",
-   "titulo": "Assembleia Legislativa do Ceará aprova projeto de repasse para escola de samba do Rio de Janeiro"
+   "palavra": "8 de janeiro",
+   "titulo": "Carlos Bolsonaro volta a contestar condenação do pai pelo 8 de Janeiro"
   },
   {
-   "palavra": "anistia",
-   "titulo": "Anistia: o caminho da pacificação"
+   "palavra": "8 de janeiro",
+   "titulo": "Fachin fala em 'prudência' no exercício da magistratura e classifica 8 de janeiro como 'alerta'"
   },
   {
-   "palavra": "anistia",
-   "titulo": "Lideranças do PT defendem indulto a Bolsonaro para esvaziar anistia"
+   "palavra": "8 de janeiro",
+   "titulo": "LEI DA DOSIMETRIA, QUE DIMINUI A PENA DE BOLSONARO E DOS CONDENADOS PELO 8 DE JANEIRO, ESTÁ PARADA NO STF HÁ SEIS MESES"
   },
   {
-   "palavra": "anistia",
-   "titulo": "Na véspera da COP31, Anistia cobra liberdade para protestos na Turquia e reação à indústria de combustíveis fósseis"
+   "palavra": "8 de janeiro",
+   "titulo": "MARINHO PROMETE DESTRAVAR ANISTIA DO 8 DE JANEIRO CASO ASSUMA A PRESIDÊNCIA DO SENADO EM 2027"
   },
   {
-   "palavra": "golpe",
-   "titulo": "'Esse vídeo é falso': Roberto Justus denuncia golpe com uso de inteligência artificial"
+   "palavra": "8 de janeiro",
+   "titulo": "Marinho promete destravar anistia do 8 de Janeiro se vencer no Senado"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5795/2026",
+   "termos": [
+    "quilombol"
+   ]
+  },
   {
    "titulo": "PL 5786/2026",
    "termos": [
@@ -80,15 +86,9 @@
    "termos": [
     "violencia contra a mulher"
    ]
-  },
-  {
-   "titulo": "PL 5748/2026",
-   "termos": [
-    "trabalhador"
-   ]
   }
  ],
- "discursos": 3,
- "dolar": 5.5013,
+ "discursos": 0,
+ "dolar": 5.5146,
  "selic": 13.75
 }
