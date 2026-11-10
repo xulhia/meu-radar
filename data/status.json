@@ -1,42 +1,42 @@
 {
- "atualizado": "2026-11-09T22:29:44.845191+00:00",
- "novas": 473,
+ "atualizado": "2026-11-10T04:40:22.483478+00:00",
+ "novas": 498,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 26,
-   "segundos": 0.4
+   "itens": 24,
+   "segundos": 0.3
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Senado",
    "ok": true,
-   "itens": 89,
-   "segundos": 0.5
+   "itens": 95,
+   "segundos": 0.4
   },
   {
    "busca": "STF",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Governo federal",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 25,
-   "segundos": 0.4
+   "itens": 26,
+   "segundos": 0.3
   },
   {
    "busca": "Fortaleza",
@@ -47,158 +47,158 @@
   {
    "busca": "Povos indígenas",
    "ok": true,
-   "itens": 91,
-   "segundos": 0.6
+   "itens": 96,
+   "segundos": 0.4
   },
   {
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Trabalho",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: g1",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.7
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Estadão",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: O Globo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.7
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: CNN Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Poder360",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Metrópoles",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 47,
-   "segundos": 0.4
+   "itens": 53,
+   "segundos": 0.2
   },
   {
    "busca": "Fonte: Agência Senado",
    "ok": true,
-   "itens": 96,
-   "segundos": 0.5
+   "itens": 100,
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: O Povo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Diário do Nordeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: CartaCapital",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
-   "itens": 53,
-   "segundos": 0.4
+   "itens": 62,
+   "segundos": 0.2
   },
   {
    "busca": "Fonte: Revista Fórum",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: Gazeta do Povo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 69,
-   "segundos": 0.4
+   "itens": 71,
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 21,
-   "segundos": 0.3
+   "itens": 16,
+   "segundos": 0.2
   },
   {
    "busca": "Fonte: Projeto Comprova",
    "ok": true,
    "itens": 1,
-   "segundos": 0.3
+   "segundos": 0.2
   },
   {
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.6
+   "segundos": 0.7
   },
   {
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 1.1
+   "segundos": 1.2
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.7
+   "segundos": 1.4
   }
  ]
 }
