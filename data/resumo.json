@@ -1,51 +1,51 @@
 {
- "gerado": "2026-11-09T19:52:07.407447+00:00",
+ "gerado": "2026-11-10T16:59:43.145466+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   421
-  ],
-  [
-   "Congresso",
-   206
+   368
   ],
   [
    "STF e Justiça",
-   202
+   306
   ],
   [
-   "Democracia",
-   120
+   "Congresso",
+   285
   ],
   [
    "Trabalho",
-   116
+   159
+  ],
+  [
+   "Democracia",
+   129
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Carlos Bolsonaro questiona condenação do pai e diz que Jair estava nos EUA durante o 8 de Janeiro"
+   "titulo": "'Aqui não tem mansão pra alugar': foragido do 8 de janeiro expõe dificuldade financeira na Argentina"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Carlos Bolsonaro volta a contestar condenação do pai pelo 8 de Janeiro"
+   "titulo": "GDF manterá célula de segurança até 10 de janeiro para prevenir novo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Fachin fala em 'prudência' no exercício da magistratura e classifica 8 de janeiro como 'alerta'"
+   "titulo": "Moraes vota para que criador do 'paredão' no BBB siga como réu do 8 de janeiro mesmo foragido"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "LEI DA DOSIMETRIA, QUE DIMINUI A PENA DE BOLSONARO E DOS CONDENADOS PELO 8 DE JANEIRO, ESTÁ PARADA NO STF HÁ SEIS MESES"
+   "titulo": "Painel: Governo do DF manterá esquema de segurança ativo após a posse de Lula, para evitar novo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "MARINHO PROMETE DESTRAVAR ANISTIA DO 8 DE JANEIRO CASO ASSUMA A PRESIDÊNCIA DO SENADO EM 2027"
+   "titulo": "STF revoga tornozeleira eletrônica e recolhimento noturno de ré do 8 de Janeiro após justificativa de falha em equipamento"
   },
   {
-   "palavra": "8 de janeiro",
-   "titulo": "Marinho promete destravar anistia do 8 de Janeiro se vencer no Senado"
+   "palavra": "anistia",
+   "titulo": "'Bloco da Anistia', ato carnavalesco bolsonarista, sairá às ruas de BH pela segunda vez em 2027"
   }
  ],
  "prazos_7_dias": [],
@@ -89,6 +89,6 @@
   }
  ],
  "discursos": 0,
- "dolar": 5.5146,
+ "dolar": 5.584,
  "selic": 13.75
 }
