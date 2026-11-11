@@ -1,51 +1,51 @@
 {
- "gerado": "2026-11-10T16:59:43.145466+00:00",
+ "gerado": "2026-11-11T17:04:50.342965+00:00",
  "temas_em_alta": [
   [
+   "Congresso",
+   402
+  ],
+  [
    "Governo federal",
-   368
+   392
   ],
   [
    "STF e Justiça",
-   306
-  ],
-  [
-   "Congresso",
-   285
+   241
   ],
   [
    "Trabalho",
-   159
+   146
   ],
   [
    "Democracia",
-   129
+   134
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "'Aqui não tem mansão pra alugar': foragido do 8 de janeiro expõe dificuldade financeira na Argentina"
+   "titulo": "Faltou a um ou aos dois turnos? Prazos para justificar terminam em 3 de dezembro e 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "GDF manterá célula de segurança até 10 de janeiro para prevenir novo 8 de Janeiro"
+   "titulo": "Idaf alerta para risco de ferrugem asiática na soja e prazo de plantio até 8 de janeiro no Acre"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes vota para que criador do 'paredão' no BBB siga como réu do 8 de janeiro mesmo foragido"
+   "titulo": "Moraes retira tornozeleira de ré do 8 de janeiro após três anos de cumprimento das medidas judiciais"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Painel: Governo do DF manterá esquema de segurança ativo após a posse de Lula, para evitar novo 8 de Janeiro"
+   "titulo": "PL prepara ofensiva jurídica e internacional pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "STF revoga tornozeleira eletrônica e recolhimento noturno de ré do 8 de Janeiro após justificativa de falha em equipamento"
+   "titulo": "Segurança da posse de Lula busca evitar novos ataques como os de 8 de janeiro"
   },
   {
-   "palavra": "anistia",
-   "titulo": "'Bloco da Anistia', ato carnavalesco bolsonarista, sairá às ruas de BH pela segunda vez em 2027"
+   "palavra": "8 de janeiro",
+   "titulo": "Segurança da posse de Lula terá 22 órgãos e será mantida até dia 10 para evitar ‘novo 8 de Janeiro’"
   }
  ],
  "prazos_7_dias": [],
@@ -88,7 +88,7 @@
    ]
   }
  ],
- "discursos": 0,
- "dolar": 5.584,
+ "discursos": 5,
+ "dolar": 5.5606,
  "selic": 13.75
 }
