@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-11-11T17:00:35.076395+00:00",
- "novas": 157,
+ "atualizado": "2026-11-11T22:47:41.015748+00:00",
+ "novas": 749,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 30,
+   "itens": 28,
    "segundos": 0.4
   },
   {
@@ -30,25 +30,25 @@
    "busca": "Governo federal",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 44,
+   "itens": 48,
    "segundos": 0.4
   },
   {
    "busca": "Fortaleza",
    "ok": true,
-   "itens": 28,
-   "segundos": 0.3
+   "itens": 27,
+   "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.6
   },
   {
    "busca": "Democracia",
@@ -66,13 +66,13 @@
    "busca": "Fonte: g1",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.6
   },
   {
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.8
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Estadão",
@@ -84,13 +84,13 @@
    "busca": "Fonte: O Globo",
    "ok": true,
    "itens": 100,
-   "segundos": 1.2
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: CNN Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Poder360",
@@ -107,20 +107,20 @@
   {
    "busca": "Fonte: Agência Brasil",
    "ok": true,
-   "itens": 100,
+   "itens": 99,
    "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 87,
+   "itens": 78,
    "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: O Povo",
@@ -138,7 +138,7 @@
    "busca": "Fonte: CartaCapital",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Brasil de Fato",
@@ -156,7 +156,7 @@
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Gazeta do Povo",
@@ -167,26 +167,26 @@
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 89,
-   "segundos": 0.3
+   "itens": 93,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 16,
+   "itens": 25,
    "segundos": 0.3
   },
   {
    "busca": "Fonte: Projeto Comprova",
    "ok": true,
    "itens": 0,
-   "segundos": 0.2
+   "segundos": 0.3
   },
   {
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.5
+   "segundos": 0.7
   },
   {
    "busca": "Feed: Agência Câmara",
@@ -196,8 +196,9 @@
   },
   {
    "busca": "Feed: Agência Senado",
-   "ok": false,
-   "erro": "not well-formed (invalid token): line 760, column 14"
+   "ok": true,
+   "itens": 15,
+   "segundos": 1.1
   }
  ]
 }
