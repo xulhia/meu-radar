@@ -1,51 +1,51 @@
 {
- "gerado": "2026-11-11T17:04:50.342965+00:00",
+ "gerado": "2026-11-12T17:36:01.582843+00:00",
  "temas_em_alta": [
   [
    "Congresso",
-   402
+   349
   ],
   [
    "Governo federal",
-   392
+   317
   ],
   [
    "STF e Justiça",
-   241
+   216
   ],
   [
    "Trabalho",
-   146
+   120
   ],
   [
    "Democracia",
-   134
+   120
   ]
  ],
  "alertas_noticias": [
+  {
+   "palavra": "8 de janeiro",
+   "titulo": "ANDRÉ MENDONÇA ACIONA PGR SOBRE PEDIDO PARA REDUZIR PENA DE CONDENADA PELO 8 DE JANEIRO"
+  },
   {
    "palavra": "8 de janeiro",
    "titulo": "Faltou a um ou aos dois turnos? Prazos para justificar terminam em 3 de dezembro e 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Idaf alerta para risco de ferrugem asiática na soja e prazo de plantio até 8 de janeiro no Acre"
+   "titulo": "PL prepara ofensiva no STF e na OEA por condenados do 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes retira tornozeleira de ré do 8 de janeiro após três anos de cumprimento das medidas judiciais"
+   "titulo": "Rodrigo Valadares apresentou parecer favorável à anistia dos atos de 8 de Janeiro"
   },
   {
-   "palavra": "8 de janeiro",
-   "titulo": "PL prepara ofensiva jurídica e internacional pelo 8 de Janeiro"
+   "palavra": "anistia",
+   "titulo": "Anistia critica troca de delegados da PF"
   },
   {
-   "palavra": "8 de janeiro",
-   "titulo": "Segurança da posse de Lula busca evitar novos ataques como os de 8 de janeiro"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "Segurança da posse de Lula terá 22 órgãos e será mantida até dia 10 para evitar ‘novo 8 de Janeiro’"
+   "palavra": "anistia",
+   "titulo": "Rodrigo Valadares apresentou parecer favorável à anistia dos atos de 8 de Janeiro"
   }
  ],
  "prazos_7_dias": [],
@@ -68,27 +68,9 @@
    "termos": [
     "violencia contra a mulher"
    ]
-  },
-  {
-   "titulo": "PL 5767/2026",
-   "termos": [
-    "discriminacao"
-   ]
-  },
-  {
-   "titulo": "PL 5762/2026",
-   "termos": [
-    "trabalhador"
-   ]
-  },
-  {
-   "titulo": "PLP 283/2026",
-   "termos": [
-    "violencia contra a mulher"
-   ]
   }
  ],
  "discursos": 5,
- "dolar": 5.5606,
+ "dolar": 5.6143,
  "selic": 13.75
 }
