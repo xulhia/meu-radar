@@ -1,76 +1,94 @@
 {
- "gerado": "2026-11-12T17:36:01.582843+00:00",
+ "gerado": "2026-11-13T17:10:09.984587+00:00",
  "temas_em_alta": [
   [
-   "Congresso",
-   349
+   "Governo federal",
+   303
   ],
   [
-   "Governo federal",
-   317
+   "Congresso",
+   301
   ],
   [
    "STF e Justiça",
-   216
-  ],
-  [
-   "Trabalho",
-   120
+   266
   ],
   [
    "Democracia",
-   120
+   138
+  ],
+  [
+   "Trabalho",
+   84
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "ANDRÉ MENDONÇA ACIONA PGR SOBRE PEDIDO PARA REDUZIR PENA DE CONDENADA PELO 8 DE JANEIRO"
+   "titulo": "MORAES LIBERA PASSAPORTE E AUTORIZA TENENTE DA PMDF ABSOLVIDO PELO 8 DE JANEIRO A SAIR DO PAÍS SE QUISER"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Faltou a um ou aos dois turnos? Prazos para justificar terminam em 3 de dezembro e 8 de janeiro"
+   "titulo": "MORRE, AOS 62 ANOS, ARNALDO JOSÉ BACK, CONDENADO POR ALEXANDRE DE MORAES NO PROCESSO DO 8 DE JANEIRO"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "PL prepara ofensiva no STF e na OEA por condenados do 8 de Janeiro"
+   "titulo": "PGR diz ao STF ser contra a revisão da condenação de Jair Bolsonaro no caso do 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Rodrigo Valadares apresentou parecer favorável à anistia dos atos de 8 de Janeiro"
+   "titulo": "STF abre prazo para PGR avaliar pedido de prisão domiciliar de condenado pelo 8 de janeiro"
   },
   {
-   "palavra": "anistia",
-   "titulo": "Anistia critica troca de delegados da PF"
+   "palavra": "golpe",
+   "titulo": "A mais recente tentativa de golpe contra o caso Master"
   },
   {
-   "palavra": "anistia",
-   "titulo": "Rodrigo Valadares apresentou parecer favorável à anistia dos atos de 8 de Janeiro"
+   "palavra": "golpe",
+   "titulo": "Advogado é alvo de busca e apreensão por suspeita de aplicar golpe de cerca de R$ 200 mil em cliente em GO"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
   {
-   "titulo": "PL 5795/2026",
+   "titulo": "PDL 1239/2026",
    "termos": [
-    "quilombol"
+    "ceara"
    ]
   },
   {
-   "titulo": "PL 5786/2026",
+   "titulo": "PDL 1221/2026",
+   "termos": [
+    "ceara"
+   ]
+  },
+  {
+   "titulo": "PDL 1113/2026",
+   "termos": [
+    "ceara"
+   ]
+  },
+  {
+   "titulo": "PDL 1076/2026",
+   "termos": [
+    "ceara"
+   ]
+  },
+  {
+   "titulo": "PL 5842/2026",
    "termos": [
     "8 de janeiro"
    ]
   },
   {
-   "titulo": "PL 5774/2026",
+   "titulo": "PL 5795/2026",
    "termos": [
-    "violencia contra a mulher"
+    "quilombol"
    ]
   }
  ],
  "discursos": 5,
- "dolar": 5.6143,
+ "dolar": 5.6518,
  "selic": 13.75
 }
