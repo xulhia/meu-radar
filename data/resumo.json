@@ -1,56 +1,62 @@
 {
- "gerado": "2026-11-13T17:10:09.984587+00:00",
+ "gerado": "2026-11-14T15:46:54.363472+00:00",
  "temas_em_alta": [
   [
+   "STF e Justiça",
+   223
+  ],
+  [
    "Governo federal",
-   303
+   215
   ],
   [
    "Congresso",
-   301
-  ],
-  [
-   "STF e Justiça",
-   266
+   205
   ],
   [
    "Democracia",
-   138
+   109
   ],
   [
-   "Trabalho",
-   84
+   "Ceará",
+   69
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "MORAES LIBERA PASSAPORTE E AUTORIZA TENENTE DA PMDF ABSOLVIDO PELO 8 DE JANEIRO A SAIR DO PAÍS SE QUISER"
+   "titulo": "Morre réu do 8 de Janeiro que negou acordo com a Justiça"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "MORRE, AOS 62 ANOS, ARNALDO JOSÉ BACK, CONDENADO POR ALEXANDRE DE MORAES NO PROCESSO DO 8 DE JANEIRO"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "PGR diz ao STF ser contra a revisão da condenação de Jair Bolsonaro no caso do 8 de janeiro"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "STF abre prazo para PGR avaliar pedido de prisão domiciliar de condenado pelo 8 de janeiro"
+   "titulo": "Mortes de réus do 8 de Janeiro chegam a 12"
   },
   {
    "palavra": "golpe",
-   "titulo": "A mais recente tentativa de golpe contra o caso Master"
+   "titulo": "'Ladrões de rosto': entenda como hackers agem em golpe online para roubar criptomoedas"
   },
   {
    "palavra": "golpe",
-   "titulo": "Advogado é alvo de busca e apreensão por suspeita de aplicar golpe de cerca de R$ 200 mil em cliente em GO"
+   "titulo": "A Proclamação da República foi um golpe militar? Professor explica evento histórico"
+  },
+  {
+   "palavra": "golpe",
+   "titulo": "Adolescente é apreendido por agredir a mãe com golpe de martelo em Itaúna"
+  },
+  {
+   "palavra": "golpe",
+   "titulo": "Camarão-louva-a-deus desfere golpe de até 80 km/h e possui olhos capazes de detectar luz invisível aos humanos, intrigando cientistas"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5856/2026",
+   "termos": [
+    "violencia contra a mulher"
+   ]
+  },
   {
    "titulo": "PDL 1239/2026",
    "termos": [
@@ -80,15 +86,9 @@
    "termos": [
     "8 de janeiro"
    ]
-  },
-  {
-   "titulo": "PL 5795/2026",
-   "termos": [
-    "quilombol"
-   ]
   }
  ],
- "discursos": 5,
+ "discursos": 6,
  "dolar": 5.6518,
  "selic": 13.75
 }
