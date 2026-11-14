@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-14T15:42:41.989791+00:00",
- "novas": 144,
+ "atualizado": "2026-11-14T19:14:20.987650+00:00",
+ "novas": 305,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 30,
-   "segundos": 0.3
+   "itens": 31,
+   "segundos": 0.4
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Senado",
@@ -24,7 +24,7 @@
    "busca": "STF",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Governo federal",
@@ -35,7 +35,7 @@
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 51,
+   "itens": 40,
    "segundos": 0.3
   },
   {
@@ -48,19 +48,19 @@
    "busca": "Povos indígenas",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.6
   },
   {
    "busca": "Trabalho",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: g1",
@@ -78,13 +78,13 @@
    "busca": "Fonte: Estadão",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: O Globo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: CNN Brasil",
@@ -108,12 +108,12 @@
    "busca": "Fonte: Agência Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 52,
+   "itens": 45,
    "segundos": 0.3
   },
   {
@@ -143,14 +143,14 @@
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
-   "itens": 100,
-   "segundos": 0.3
+   "itens": 99,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Revista Fórum",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Revista Oeste",
@@ -167,13 +167,13 @@
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 90,
+   "itens": 93,
    "segundos": 0.4
   },
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 12,
+   "itens": 8,
    "segundos": 0.2
   },
   {
@@ -186,7 +186,7 @@
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.4
+   "segundos": 0.6
   },
   {
    "busca": "Feed: Agência Câmara",
@@ -198,7 +198,7 @@
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.0
+   "segundos": 1.4
   }
  ]
 }
