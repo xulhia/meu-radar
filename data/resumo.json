@@ -1,51 +1,51 @@
 {
- "gerado": "2026-11-14T15:46:54.363472+00:00",
+ "gerado": "2026-11-15T16:17:00.728329+00:00",
  "temas_em_alta": [
   [
-   "STF e Justiça",
-   223
-  ],
-  [
    "Governo federal",
-   215
+   159
   ],
   [
    "Congresso",
-   205
+   144
   ],
   [
-   "Democracia",
-   109
+   "STF e Justiça",
+   120
   ],
   [
    "Ceará",
-   69
+   78
+  ],
+  [
+   "Democracia",
+   62
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Morre réu do 8 de Janeiro que negou acordo com a Justiça"
+   "titulo": "Condenado pelo 8 de Janeiro morre aos 62 anos"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Mortes de réus do 8 de Janeiro chegam a 12"
+   "titulo": "Ministro do STF determina início de pena de prisão para jovem condenado pelos atos de 8 de janeiro"
   },
   {
-   "palavra": "golpe",
-   "titulo": "'Ladrões de rosto': entenda como hackers agem em golpe online para roubar criptomoedas"
+   "palavra": "8 de janeiro",
+   "titulo": "Moraes manda prender jovem de 24 anos pelo 8 de janeiro"
   },
   {
-   "palavra": "golpe",
-   "titulo": "A Proclamação da República foi um golpe militar? Professor explica evento histórico"
+   "palavra": "8 de janeiro",
+   "titulo": "Na Revista Oeste, Rui chama o processo do 8 de janeiro de grotesco"
   },
   {
-   "palavra": "golpe",
-   "titulo": "Adolescente é apreendido por agredir a mãe com golpe de martelo em Itaúna"
+   "palavra": "8 de janeiro",
+   "titulo": "Redução da pena de Bolsonaro e Lei da Dosimetria: o que cada uma pode mudar nas penas do 8 de Janeiro"
   },
   {
-   "palavra": "golpe",
-   "titulo": "Camarão-louva-a-deus desfere golpe de até 80 km/h e possui olhos capazes de detectar luz invisível aos humanos, intrigando cientistas"
+   "palavra": "anistia",
+   "titulo": "Trailers do filme Anistia 79"
   }
  ],
  "prazos_7_dias": [],
@@ -88,7 +88,7 @@
    ]
   }
  ],
- "discursos": 6,
+ "discursos": 0,
  "dolar": 5.6518,
  "selic": 13.75
 }
