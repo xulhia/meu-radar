@@ -1,25 +1,25 @@
 {
- "gerado": "2026-11-17T18:27:46.041530+00:00",
+ "gerado": "2026-11-18T18:00:28.158098+00:00",
  "temas_em_alta": [
   [
-   "Governo federal",
-   396
+   "Congresso",
+   399
   ],
   [
-   "Congresso",
-   345
+   "Governo federal",
+   364
   ],
   [
    "STF e Justiça",
-   219
-  ],
-  [
-   "Trabalho",
-   174
+   276
   ],
   [
    "Democracia",
-   156
+   133
+  ],
+  [
+   "Trabalho",
+   128
   ]
  ],
  "alertas_noticias": [
@@ -29,28 +29,34 @@
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Condenado pelo 8 de Janeiro, sorocabano aguarda decisão sobre extradição na Argentina"
+   "titulo": "Congresso pede ao STF julgamento da lei que pode reduzir penas de condenados pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Inscrições Abertas Para O Prêmio ABC 2027; Trabalhos Podem Ser Enviados Até 8 De Janeiro"
+   "titulo": "Congresso pede decisão do STF sobre redução de penas de condenados pelo 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Inscrições abertas para o Prêmio ABC 2027; trabalhos podem ser enviados até 8 de janeiro"
+   "titulo": "Congresso pede que STF julgue lei que beneficia condenados pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "MORAES RECUA APÓS DEIXAR CONDENADO DO 8 DE JANEIRO PRESO A UMA MULTA QUE ELE NÃO PODIA PAGAR"
+   "titulo": "Congresso solicita ao STF julgamento de lei que beneficia condenados pelos atos de 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes determina prisão de homem que gravou vídeos do 8 de Janeiro"
+   "titulo": "Fachin afirma que STF pode julgar ainda em 2026 lei que reduz penas de condenados pelo 8 de janeiro e pode beneficiar Bolsonaro"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5895/2026",
+   "termos": [
+    "trabalhador"
+   ]
+  },
   {
    "titulo": "PL 5856/2026",
    "termos": [
@@ -80,15 +86,9 @@
    "termos": [
     "ceara"
    ]
-  },
-  {
-   "titulo": "PL 5842/2026",
-   "termos": [
-    "8 de janeiro"
-   ]
   }
  ],
- "discursos": 0,
- "dolar": 5.7851,
+ "discursos": 5,
+ "dolar": 5.8102,
  "selic": 13.75
 }
