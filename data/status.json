@@ -1,29 +1,30 @@
 {
- "atualizado": "2026-11-18T04:31:52.931213+00:00",
- "novas": 439,
+ "atualizado": "2026-11-18T14:14:22.235875+00:00",
+ "novas": 595,
  "buscas": [
   {
    "busca": "Política nacional",
-   "ok": false,
-   "erro": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "itens": 30,
+   "segundos": 0.4
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.6
   },
   {
    "busca": "Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "STF",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.6
   },
   {
    "busca": "Governo federal",
@@ -34,13 +35,14 @@
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 23,
-   "segundos": 0.3
+   "itens": 26,
+   "segundos": 0.4
   },
   {
    "busca": "Fortaleza",
-   "ok": false,
-   "erro": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "itens": 27,
+   "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
@@ -68,8 +70,9 @@
   },
   {
    "busca": "Fonte: Folha de S.Paulo",
-   "ok": false,
-   "erro": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "itens": 100,
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Estadão",
@@ -87,7 +90,7 @@
    "busca": "Fonte: CNN Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Poder360",
@@ -104,20 +107,20 @@
   {
    "busca": "Fonte: Agência Brasil",
    "ok": true,
-   "itens": 97,
-   "segundos": 0.5
+   "itens": 100,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 96,
-   "segundos": 0.3
+   "itens": 77,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: O Povo",
@@ -129,19 +132,19 @@
    "busca": "Fonte: Diário do Nordeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: CartaCapital",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Revista Fórum",
@@ -153,7 +156,7 @@
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Gazeta do Povo",
@@ -164,13 +167,13 @@
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 84,
-   "segundos": 0.4
+   "itens": 87,
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 7,
+   "itens": 6,
    "segundos": 0.2
   },
   {
