@@ -1,56 +1,68 @@
 {
- "gerado": "2026-11-18T18:00:28.158098+00:00",
+ "gerado": "2026-11-19T18:13:01.032820+00:00",
  "temas_em_alta": [
   [
-   "Congresso",
-   399
+   "Governo federal",
+   404
   ],
   [
-   "Governo federal",
-   364
+   "Congresso",
+   280
   ],
   [
    "STF e Justiça",
-   276
-  ],
-  [
-   "Democracia",
-   133
+   254
   ],
   [
    "Trabalho",
-   128
+   149
+  ],
+  [
+   "Democracia",
+   132
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Alcolumbre e Motta cobram Moraes por julgamento da dosimetria a condenados do 8 de janeiro"
+   "titulo": "8 de Janeiro: Motta e Alcolumbre pedem que Moraes destrave ações da Lei da Dosimetria no STF"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Congresso pede ao STF julgamento da lei que pode reduzir penas de condenados pelo 8 de Janeiro"
+   "titulo": "Hugo Motta diz querer que STF julgue Lei da Dosimetria para \"virar a página\" do 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Congresso pede decisão do STF sobre redução de penas de condenados pelo 8 de janeiro"
+   "titulo": "Hugo Motta pressiona STF por julgamento da Lei da Dosimetria para “virar a página” do 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Congresso pede que STF julgue lei que beneficia condenados pelo 8 de Janeiro"
+   "titulo": "Lei da Dosimetria: como a redução de penas pode beneficiar Bolsonaro e condenados pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Congresso solicita ao STF julgamento de lei que beneficia condenados pelos atos de 8 de janeiro"
+   "titulo": "Moraes aguarda PGR para decidir sobre domiciliar para o 1º condenado no 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Fachin afirma que STF pode julgar ainda em 2026 lei que reduz penas de condenados pelo 8 de janeiro e pode beneficiar Bolsonaro"
+   "titulo": "Motta diz que julgamento da Dosimetria no STF pode ajudar país a 'virar página' do 8 de Janeiro"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5904/2026",
+   "termos": [
+    "ceara"
+   ]
+  },
+  {
+   "titulo": "PL 5901/2026",
+   "termos": [
+    "violencia contra a mulher"
+   ]
+  },
   {
    "titulo": "PL 5895/2026",
    "termos": [
@@ -74,21 +86,9 @@
    "termos": [
     "ceara"
    ]
-  },
-  {
-   "titulo": "PDL 1113/2026",
-   "termos": [
-    "ceara"
-   ]
-  },
-  {
-   "titulo": "PDL 1076/2026",
-   "termos": [
-    "ceara"
-   ]
   }
  ],
- "discursos": 5,
+ "discursos": 6,
  "dolar": 5.8102,
  "selic": 13.75
 }
