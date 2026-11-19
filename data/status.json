@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-19T03:39:15.391212+00:00",
- "novas": 470,
+ "atualizado": "2026-11-19T13:27:46.404965+00:00",
+ "novas": 481,
  "buscas": [
   {
    "busca": "Política nacional",
@@ -12,7 +12,7 @@
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Senado",
@@ -41,8 +41,8 @@
   {
    "busca": "Fortaleza",
    "ok": true,
-   "itens": 34,
-   "segundos": 0.3
+   "itens": 31,
+   "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
@@ -54,7 +54,7 @@
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.5
   },
   {
    "busca": "Trabalho",
@@ -72,7 +72,7 @@
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Estadão",
@@ -102,7 +102,7 @@
    "busca": "Fonte: Metrópoles",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.6
   },
   {
    "busca": "Fonte: Agência Brasil",
@@ -113,8 +113,8 @@
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 80,
-   "segundos": 0.3
+   "itens": 77,
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Senado",
@@ -132,7 +132,7 @@
    "busca": "Fonte: Diário do Nordeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: CartaCapital",
@@ -150,13 +150,13 @@
    "busca": "Fonte: Revista Fórum",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.6
   },
   {
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Gazeta do Povo",
@@ -167,7 +167,7 @@
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 100,
+   "itens": 94,
    "segundos": 0.4
   },
   {
@@ -186,19 +186,19 @@
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.5
+   "segundos": 0.9
   },
   {
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 1.3
+   "segundos": 1.2
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.5
+   "segundos": 1.4
   }
  ]
 }
