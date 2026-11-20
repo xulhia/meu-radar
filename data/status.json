@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-20T03:28:15.917854+00:00",
- "novas": 441,
+ "atualizado": "2026-11-20T13:08:17.745880+00:00",
+ "novas": 419,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 29,
-   "segundos": 0.3
+   "itens": 59,
+   "segundos": 0.5
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Senado",
@@ -35,26 +35,26 @@
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 27,
+   "itens": 28,
    "segundos": 0.3
   },
   {
    "busca": "Fortaleza",
    "ok": true,
-   "itens": 29,
+   "itens": 27,
    "segundos": 0.3
   },
   {
    "busca": "Povos indígenas",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Trabalho",
@@ -72,7 +72,7 @@
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Estadão",
@@ -84,13 +84,13 @@
    "busca": "Fonte: O Globo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: CNN Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Poder360",
@@ -113,14 +113,14 @@
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 100,
+   "itens": 71,
    "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Senado",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: O Povo",
@@ -138,13 +138,13 @@
    "busca": "Fonte: CartaCapital",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
    "itens": 100,
-   "segundos": 0.3
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Revista Fórum",
@@ -156,19 +156,19 @@
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Gazeta do Povo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
    "itens": 100,
-   "segundos": 0.3
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Aos Fatos",
@@ -186,19 +186,19 @@
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.4
+   "segundos": 0.8
   },
   {
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 1.1
+   "segundos": 1.0
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.4
+   "segundos": 1.2
   }
  ]
 }
