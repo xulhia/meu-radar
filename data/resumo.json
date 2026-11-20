@@ -1,56 +1,62 @@
 {
- "gerado": "2026-11-19T18:13:01.032820+00:00",
+ "gerado": "2026-11-20T17:44:35.143315+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   404
-  ],
-  [
-   "Congresso",
-   280
+   278
   ],
   [
    "STF e Justiça",
-   254
+   262
   ],
   [
-   "Trabalho",
-   149
+   "Congresso",
+   191
   ],
   [
    "Democracia",
-   132
+   111
+  ],
+  [
+   "Trabalho",
+   98
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "8 de Janeiro: Motta e Alcolumbre pedem que Moraes destrave ações da Lei da Dosimetria no STF"
+   "titulo": "DEBATE JURÍDICO E POLÍTICO: A DISCUSSÃO SOBRE A DOSIMETRIA DAS PENAS DOS CONDENADOS PELOS ATOS DE 8 DE JANEIRO DIVIDE OPINIÕES NO CONGRESSO E NO JUDICIÁRIO"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Hugo Motta diz querer que STF julgue Lei da Dosimetria para \"virar a página\" do 8 de Janeiro"
+   "titulo": "Justiça: STF julga Lei da Dosimetria entre 4 e 15 de dezembro Supremo analisará a constitucionalidade da legislação que pode reduzir penas de 455 condenados pelos atos golpistas de 8 de janeiro e pela trama golpista, incluindo o ex-presidente Jair Bolso"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Hugo Motta pressiona STF por julgamento da Lei da Dosimetria para “virar a página” do 8 de janeiro"
+   "titulo": "Lei da Dosimetria pode beneficiar Bolsonaro e ao menos 454 condenados pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Lei da Dosimetria: como a redução de penas pode beneficiar Bolsonaro e condenados pelo 8 de Janeiro"
+   "titulo": "Leia a íntegra do relatório de Moraes sobre o 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes aguarda PGR para decidir sobre domiciliar para o 1º condenado no 8 de Janeiro"
+   "titulo": "Moraes libera julgamento de lei que pode reduzir pena de Bolsonaro e condenados pelo 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Motta diz que julgamento da Dosimetria no STF pode ajudar país a 'virar página' do 8 de Janeiro"
+   "titulo": "Moraes mandou destruir armamentos de condenados do 8 de Janeiro, e não Bíblias e bengalas"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5916/2026",
+   "termos": [
+    "anistia"
+   ]
+  },
   {
    "titulo": "PL 5904/2026",
    "termos": [
@@ -74,21 +80,9 @@
    "termos": [
     "violencia contra a mulher"
    ]
-  },
-  {
-   "titulo": "PDL 1239/2026",
-   "termos": [
-    "ceara"
-   ]
-  },
-  {
-   "titulo": "PDL 1221/2026",
-   "termos": [
-    "ceara"
-   ]
   }
  ],
  "discursos": 6,
- "dolar": 5.8102,
+ "dolar": 5.8889,
  "selic": 13.75
 }
