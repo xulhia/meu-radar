@@ -1,51 +1,51 @@
 {
- "gerado": "2026-11-20T17:44:35.143315+00:00",
+ "gerado": "2026-11-21T16:47:42.255603+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   278
-  ],
-  [
-   "STF e Justiça",
-   262
-  ],
-  [
-   "Congresso",
-   191
+   197
   ],
   [
    "Democracia",
-   111
+   152
   ],
   [
-   "Trabalho",
-   98
+   "STF e Justiça",
+   123
+  ],
+  [
+   "Congresso",
+   80
+  ],
+  [
+   "Ceará",
+   56
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "DEBATE JURÍDICO E POLÍTICO: A DISCUSSÃO SOBRE A DOSIMETRIA DAS PENAS DOS CONDENADOS PELOS ATOS DE 8 DE JANEIRO DIVIDE OPINIÕES NO CONGRESSO E NO JUDICIÁRIO"
+   "titulo": "As imagens mostram a ocupação do Congresso no 8 de Janeiro e Gibrail Pereira de Souza em um registro em Brasília. O anapolino, de 61 anos, foi condenado a 14 anos de prisão. Alexandre de Moraes enviou a ordem de prisão à Polícia Federal na quarta-"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Justiça: STF julga Lei da Dosimetria entre 4 e 15 de dezembro Supremo analisará a constitucionalidade da legislação que pode reduzir penas de 455 condenados pelos atos golpistas de 8 de janeiro e pela trama golpista, incluindo o ex-presidente Jair Bolso"
+   "titulo": "BISPO ENFRENTA O SISTEMA E PEDE LIBERTAÇÃO DE CONDENADO PELO 8 DE JANEIRO: “EXISTE UMA FAMÍLIA SOFRENDO”"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Lei da Dosimetria pode beneficiar Bolsonaro e ao menos 454 condenados pelo 8 de Janeiro"
+   "titulo": "Bispo de Formosa pede liberação de condenado pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Leia a íntegra do relatório de Moraes sobre o 8 de Janeiro"
+   "titulo": "Bispo pede libertação de condenado pelo 8 de Janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes libera julgamento de lei que pode reduzir pena de Bolsonaro e condenados pelo 8 de janeiro"
+   "titulo": "Bispo visita família de preso do 8 de Janeiro e pede oração: \"Dor que pesa\""
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes mandou destruir armamentos de condenados do 8 de Janeiro, e não Bíblias e bengalas"
+   "titulo": "ELE NÃO PARA: MORAES MANDA PRENDER HOMEM DE 61 ANOS CONDENADO A 14 ANOS PELO 8 DE JANEIRO"
   }
  ],
  "prazos_7_dias": [],
@@ -74,15 +74,9 @@
    "termos": [
     "trabalhador"
    ]
-  },
-  {
-   "titulo": "PL 5856/2026",
-   "termos": [
-    "violencia contra a mulher"
-   ]
   }
  ],
- "discursos": 6,
+ "discursos": 1,
  "dolar": 5.8889,
  "selic": 13.75
 }
