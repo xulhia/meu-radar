@@ -1,39 +1,31 @@
 {
- "gerado": "2026-11-21T16:47:42.255603+00:00",
+ "gerado": "2026-11-22T17:05:08.716628+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   197
+   195
   ],
   [
    "Democracia",
-   152
-  ],
-  [
-   "STF e Justiça",
-   123
+   130
   ],
   [
    "Congresso",
-   80
+   98
   ],
   [
-   "Ceará",
-   56
+   "STF e Justiça",
+   89
+  ],
+  [
+   "Trabalho",
+   61
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "As imagens mostram a ocupação do Congresso no 8 de Janeiro e Gibrail Pereira de Souza em um registro em Brasília. O anapolino, de 61 anos, foi condenado a 14 anos de prisão. Alexandre de Moraes enviou a ordem de prisão à Polícia Federal na quarta-"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "BISPO ENFRENTA O SISTEMA E PEDE LIBERTAÇÃO DE CONDENADO PELO 8 DE JANEIRO: “EXISTE UMA FAMÍLIA SOFRENDO”"
-  },
-  {
-   "palavra": "8 de janeiro",
-   "titulo": "Bispo de Formosa pede liberação de condenado pelo 8 de Janeiro"
+   "titulo": "Bispo de Formosa pede soltura de condenado por atos do 8 de Janeiro e apela à sensibilidade do Congresso"
   },
   {
    "palavra": "8 de janeiro",
@@ -41,11 +33,19 @@
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Bispo visita família de preso do 8 de Janeiro e pede oração: \"Dor que pesa\""
+   "titulo": "Bispo pede soltura de condenado pelo 8 de Janeiro e cobra Congresso"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "ELE NÃO PARA: MORAES MANDA PRENDER HOMEM DE 61 ANOS CONDENADO A 14 ANOS PELO 8 DE JANEIRO"
+   "titulo": "Moraes mandou destruir armamentos de condenados do 8 de Janeiro, e não Bíblias e bengalas"
+  },
+  {
+   "palavra": "8 de janeiro",
+   "titulo": "Saiba por que, com seis meses de atraso, os presidentes da Câmara dos Deputados e do Senado cobram do Supremo que julgue a lei que reduz penas de condenados pelo 8 de Janeiro"
+  },
+  {
+   "palavra": "golpe",
+   "titulo": "'Lá Na Minha Terra': Após golpe, Rosenda dá a volta por cima e ganha aliada"
   }
  ],
  "prazos_7_dias": [],
@@ -76,7 +76,7 @@
    ]
   }
  ],
- "discursos": 1,
+ "discursos": 0,
  "dolar": 5.8889,
  "selic": 13.75
 }

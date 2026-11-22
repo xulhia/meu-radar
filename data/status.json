@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-22T16:24:11.421519+00:00",
- "novas": 669,
+ "atualizado": "2026-11-22T17:01:43.521467+00:00",
+ "novas": 167,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 31,
-   "segundos": 0.3
+   "itens": 53,
+   "segundos": 0.4
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Senado",
@@ -24,7 +24,7 @@
    "busca": "STF",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Governo federal",
@@ -34,9 +34,8 @@
   },
   {
    "busca": "Ceará",
-   "ok": true,
-   "itens": 29,
-   "segundos": 0.3
+   "ok": false,
+   "erro": "HTTP Error 429: Too Many Requests"
   },
   {
    "busca": "Fortaleza",
@@ -54,13 +53,13 @@
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Trabalho",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: g1",
@@ -72,19 +71,18 @@
    "busca": "Fonte: Folha de S.Paulo",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Estadão",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: O Globo",
-   "ok": true,
-   "itens": 100,
-   "segundos": 0.5
+   "ok": false,
+   "erro": "HTTP Error 429: Too Many Requests"
   },
   {
    "busca": "Fonte: CNN Brasil",
@@ -96,7 +94,7 @@
    "busca": "Fonte: Poder360",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Metrópoles",
@@ -107,13 +105,13 @@
   {
    "busca": "Fonte: Agência Brasil",
    "ok": true,
-   "itens": 74,
-   "segundos": 0.4
+   "itens": 78,
+   "segundos": 0.3
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 27,
+   "itens": 26,
    "segundos": 0.2
   },
   {
@@ -132,7 +130,7 @@
    "busca": "Fonte: Diário do Nordeste",
    "ok": true,
    "itens": 95,
-   "segundos": 0.3
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: CartaCapital",
@@ -143,20 +141,19 @@
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
-   "itens": 40,
+   "itens": 37,
    "segundos": 0.3
   },
   {
    "busca": "Fonte: Revista Fórum",
-   "ok": true,
-   "itens": 94,
-   "segundos": 0.3
+   "ok": false,
+   "erro": "HTTP Error 429: Too Many Requests"
   },
   {
    "busca": "Fonte: Revista Oeste",
    "ok": true,
    "itens": 100,
-   "segundos": 0.6
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Gazeta do Povo",
@@ -167,14 +164,14 @@
   {
    "busca": "Fonte: Jovem Pan",
    "ok": true,
-   "itens": 60,
+   "itens": 56,
    "segundos": 0.3
   },
   {
    "busca": "Fonte: Aos Fatos",
    "ok": true,
-   "itens": 1,
-   "segundos": 0.3
+   "itens": 0,
+   "segundos": 0.2
   },
   {
    "busca": "Fonte: Projeto Comprova",
@@ -186,19 +183,19 @@
    "busca": "Feed: Agência Brasil",
    "ok": true,
    "itens": 10,
-   "segundos": 0.7
+   "segundos": 0.2
   },
   {
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 1.7
+   "segundos": 1.0
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.5
+   "segundos": 1.1
   }
  ]
 }
