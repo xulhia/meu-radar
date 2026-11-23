@@ -1,56 +1,62 @@
 {
- "gerado": "2026-11-22T17:05:08.716628+00:00",
+ "gerado": "2026-11-23T21:13:15.564768+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   195
-  ],
-  [
-   "Democracia",
-   130
+   411
   ],
   [
    "Congresso",
-   98
+   287
   ],
   [
    "STF e Justiça",
-   89
+   234
+  ],
+  [
+   "Democracia",
+   181
   ],
   [
    "Trabalho",
-   61
+   128
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Bispo de Formosa pede soltura de condenado por atos do 8 de Janeiro e apela à sensibilidade do Congresso"
+   "titulo": "8 de janeiro: PF intima Leandro de Jesus para depor como investigado em processo"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Bispo pede libertação de condenado pelo 8 de Janeiro"
+   "titulo": "Gilmar diz que condenação de Bolsonaro é ‘lição para o mundo’ e descarta anistia pelo 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Bispo pede soltura de condenado pelo 8 de Janeiro e cobra Congresso"
+   "titulo": "Moraes mandou destruir armas de condenados do 8 de Janeiro, não bíblias e bengalas"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes mandou destruir armamentos de condenados do 8 de Janeiro, e não Bíblias e bengalas"
+   "titulo": "STF ganha força para validar nova dosimetria e pode reduzir penas de condenados pelo 8 de Janeiro"
   },
   {
-   "palavra": "8 de janeiro",
-   "titulo": "Saiba por que, com seis meses de atraso, os presidentes da Câmara dos Deputados e do Senado cobram do Supremo que julgue a lei que reduz penas de condenados pelo 8 de Janeiro"
+   "palavra": "anistia",
+   "titulo": "A CUP aplaude a anistia a Puigdemont e pede que se devolva o protagonismo ao independentismo"
   },
   {
-   "palavra": "golpe",
-   "titulo": "'Lá Na Minha Terra': Após golpe, Rosenda dá a volta por cima e ganha aliada"
+   "palavra": "anistia",
+   "titulo": "Após 200 dias de anistia dados pelo Governo Federal, milhões quitam ‘free flow’ sem multa"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5928/2026",
+   "termos": [
+    "trabalhador"
+   ]
+  },
   {
    "titulo": "PL 5916/2026",
    "termos": [
@@ -77,6 +83,6 @@
   }
  ],
  "discursos": 0,
- "dolar": 5.8889,
+ "dolar": 5.9708,
  "selic": 13.75
 }
