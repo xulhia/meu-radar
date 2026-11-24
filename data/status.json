@@ -1,24 +1,24 @@
 {
- "atualizado": "2026-11-24T02:19:05.094563+00:00",
- "novas": 649,
+ "atualizado": "2026-11-24T12:38:13.842149+00:00",
+ "novas": 640,
  "buscas": [
   {
    "busca": "Política nacional",
    "ok": true,
-   "itens": 26,
-   "segundos": 0.3
+   "itens": 60,
+   "segundos": 0.5
   },
   {
    "busca": "Câmara dos Deputados",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Senado",
    "ok": true,
-   "itens": 95,
-   "segundos": 0.4
+   "itens": 100,
+   "segundos": 0.5
   },
   {
    "busca": "STF",
@@ -30,37 +30,37 @@
    "busca": "Governo federal",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Ceará",
    "ok": true,
-   "itens": 27,
-   "segundos": 0.3
+   "itens": 55,
+   "segundos": 0.5
   },
   {
    "busca": "Fortaleza",
    "ok": true,
    "itens": 58,
-   "segundos": 0.3
+   "segundos": 0.4
   },
   {
    "busca": "Povos indígenas",
    "ok": true,
-   "itens": 99,
-   "segundos": 0.4
+   "itens": 100,
+   "segundos": 0.5
   },
   {
    "busca": "Democracia",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Trabalho",
    "ok": true,
    "itens": 100,
-   "segundos": 0.4
+   "segundos": 0.5
   },
   {
    "busca": "Fonte: g1",
@@ -78,7 +78,7 @@
    "busca": "Fonte: Estadão",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: O Globo",
@@ -90,7 +90,7 @@
    "busca": "Fonte: CNN Brasil",
    "ok": true,
    "itens": 100,
-   "segundos": 0.5
+   "segundos": 0.4
   },
   {
    "busca": "Fonte: Poder360",
@@ -107,13 +107,13 @@
   {
    "busca": "Fonte: Agência Brasil",
    "ok": true,
-   "itens": 94,
+   "itens": 100,
    "segundos": 0.4
   },
   {
    "busca": "Fonte: Agência Câmara",
    "ok": true,
-   "itens": 72,
+   "itens": 73,
    "segundos": 0.3
   },
   {
@@ -143,7 +143,7 @@
   {
    "busca": "Fonte: Brasil de Fato",
    "ok": true,
-   "itens": 67,
+   "itens": 69,
    "segundos": 0.3
   },
   {
@@ -174,13 +174,12 @@
    "busca": "Fonte: Aos Fatos",
    "ok": true,
    "itens": 5,
-   "segundos": 0.3
+   "segundos": 0.2
   },
   {
    "busca": "Fonte: Projeto Comprova",
-   "ok": true,
-   "itens": 0,
-   "segundos": 0.2
+   "ok": false,
+   "erro": "HTTP Error 429: Too Many Requests"
   },
   {
    "busca": "Feed: Agência Brasil",
@@ -192,13 +191,13 @@
    "busca": "Feed: Agência Câmara",
    "ok": true,
    "itens": 20,
-   "segundos": 0.9
+   "segundos": 1.5
   },
   {
    "busca": "Feed: Agência Senado",
    "ok": true,
    "itens": 15,
-   "segundos": 1.0
+   "segundos": 1.5
   }
  ]
 }
