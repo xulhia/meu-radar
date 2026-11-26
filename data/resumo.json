@@ -1,116 +1,101 @@
 {
- "gerado": "2026-11-25T19:10:33.579485+00:00",
+ "gerado": "2026-11-26T19:01:39.756798+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   347
+   290
   ],
   [
    "Congresso",
-   250
+   235
   ],
   [
    "STF e Justiça",
-   227
+   233
   ],
   [
    "Democracia",
-   142
+   127
   ],
   [
    "Ceará",
-   120
+   101
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Moraes retém minuta de golpe e libera passaportes de investigados do 8 de janeiro"
+   "titulo": "Condenado pelo 8 de janeiro, ex-assessor de Bolsonaro terá passaportes destruídos"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "STF dará apoio unânime a lei que reduz penas do 8 de janeiro, diz Paulinho"
+   "titulo": "Faltou a um ou aos dois turnos? Prazos para justificar terminam em 3 de dezembro e 8 de janeiro"
   },
   {
-   "palavra": "Assembleia Legislativa do Ceará",
-   "titulo": "Trabalho de incentivo ao aleitamento materno no Eusébio ganha reconhecimento da Assembleia Legislativa do Ceará"
-  },
-  {
-   "palavra": "anistia",
-   "titulo": "Anistia Internacional acusa Israel de dificultar nascimentos em Gaza e pede investigação do TPI"
+   "palavra": "8 de janeiro",
+   "titulo": "Moraes ordenou destruição de armamentos de condenados por 8 de janeiro, e não itens como bíblias e bengalas"
   },
   {
    "palavra": "anistia",
-   "titulo": "Anistia Internacional acusa Israel de dificultar nascimentos em Gaza, enquanto ONU alerta para risco de atrocidades"
+   "titulo": "Anistia Internacional acusa Israel de impedir nascimentos em Gaza"
   },
   {
    "palavra": "anistia",
-   "titulo": "Anistia Internacional acusa Israel de impor medidas que dificultam nascimentos em Gaza"
+   "titulo": "Sorriso concede anistia a igrejas com construções irregulares"
+  },
+  {
+   "palavra": "anistia",
+   "titulo": "“Mulheres e meninas em Gaza têm suportado um ataque implacável”, denuncia Anistia"
   }
  ],
  "prazos_7_dias": [],
  "votacoes_recentes": [
   {
    "proposicao": "",
-   "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 292; Não: 147; Abstenção: 2; Tot",
+   "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Famí",
    "aprovacao": 1,
-   "derrota_governo": false
-  },
-  {
-   "proposicao": "",
-   "descricao": "Mantido o texto. Sim: 319; Não: 127; Abstenção: 1; Total: 447.",
-   "aprovacao": null,
-   "derrota_governo": false
-  },
-  {
-   "proposicao": "",
-   "descricao": "Mantido o texto. Sim: 310; Não: 132; Total: 442.",
-   "aprovacao": null,
    "derrota_governo": false
   }
  ],
  "projetos_novos": [
   {
-   "titulo": "PDL 1252/2026",
+   "titulo": "PDL 1285/2026",
    "termos": [
-    "indigena",
-    "terra indigena"
+    "ceara"
    ]
   },
   {
-   "titulo": "PL 5964/2026",
+   "titulo": "PDL 1277/2026",
    "termos": [
-    "indigena"
+    "ceara"
    ]
   },
   {
-   "titulo": "PDL 1250/2026",
+   "titulo": "PDL 1274/2026",
    "termos": [
-    "indigena",
-    "terra indigena"
+    "ceara"
    ]
   },
   {
-   "titulo": "PDL 1249/2026",
-   "termos": [
-    "indigena",
-    "terra indigena"
-   ]
-  },
-  {
-   "titulo": "PL 5928/2026",
+   "titulo": "PDL 1256/2026",
    "termos": [
     "trabalhador"
    ]
   },
   {
-   "titulo": "PL 5916/2026",
+   "titulo": "PL 5983/2026",
    "termos": [
-    "anistia"
+    "trabalhador"
+   ]
+  },
+  {
+   "titulo": "PL 5980/2026",
+   "termos": [
+    "violencia contra a mulher"
    ]
   }
  ],
- "discursos": 10,
- "dolar": 5.8825,
+ "discursos": 13,
+ "dolar": 5.7446,
  "selic": 13.75
 }
