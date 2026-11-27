@@ -1,63 +1,62 @@
 {
- "gerado": "2026-11-26T19:01:39.756798+00:00",
+ "gerado": "2026-11-27T18:52:46.851723+00:00",
  "temas_em_alta": [
   [
    "Governo federal",
-   290
-  ],
-  [
-   "Congresso",
-   235
+   556
   ],
   [
    "STF e Justiça",
-   233
+   220
+  ],
+  [
+   "Congresso",
+   177
   ],
   [
    "Democracia",
-   127
+   156
   ],
   [
-   "Ceará",
-   101
+   "Trabalho",
+   117
   ]
  ],
  "alertas_noticias": [
   {
    "palavra": "8 de janeiro",
-   "titulo": "Condenado pelo 8 de janeiro, ex-assessor de Bolsonaro terá passaportes destruídos"
+   "titulo": "Exposição imersiva Van Gogh & Impressionistas chega ao RioMar Aracaju em 8 de janeiro"
   },
   {
    "palavra": "8 de janeiro",
-   "titulo": "Faltou a um ou aos dois turnos? Prazos para justificar terminam em 3 de dezembro e 8 de janeiro"
+   "titulo": "Juíza usa tese de Moraes no 8 de Janeiro para condenar 12 torcedores a 98 anos de prisão"
   },
   {
-   "palavra": "8 de janeiro",
-   "titulo": "Moraes ordenou destruição de armamentos de condenados por 8 de janeiro, e não itens como bíblias e bengalas"
-  },
-  {
-   "palavra": "anistia",
-   "titulo": "Anistia Internacional acusa Israel de impedir nascimentos em Gaza"
+   "palavra": "Assembleia Legislativa do Ceará",
+   "titulo": "Em homenagem ao Cerimonial da Assembleia Legislativa do Ceará"
   },
   {
    "palavra": "anistia",
-   "titulo": "Sorriso concede anistia a igrejas com construções irregulares"
+   "titulo": "Bruno Reis diz que Câmara votará anistia de dívidas de blocos afro em 9 de novembro"
   },
   {
    "palavra": "anistia",
-   "titulo": "“Mulheres e meninas em Gaza têm suportado um ataque implacável”, denuncia Anistia"
+   "titulo": "TCU dá mais seis meses para que UFMG e governo federal decidam futuro do Memorial da Anistia em BH"
+  },
+  {
+   "palavra": "golpe",
+   "titulo": "\"Golpe\", diz Acrimat sobre demarcação do território de Raoni assinada por Lula | HiperNotícias - Você bem informado"
   }
  ],
  "prazos_7_dias": [],
- "votacoes_recentes": [
-  {
-   "proposicao": "",
-   "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Famí",
-   "aprovacao": 1,
-   "derrota_governo": false
-  }
- ],
+ "votacoes_recentes": [],
  "projetos_novos": [
+  {
+   "titulo": "PL 5995/2026",
+   "termos": [
+    "discriminacao"
+   ]
+  },
   {
    "titulo": "PDL 1285/2026",
    "termos": [
@@ -87,15 +86,9 @@
    "termos": [
     "trabalhador"
    ]
-  },
-  {
-   "titulo": "PL 5980/2026",
-   "termos": [
-    "violencia contra a mulher"
-   ]
   }
  ],
- "discursos": 13,
- "dolar": 5.7446,
+ "discursos": 6,
+ "dolar": 5.543,
  "selic": 13.75
 }
